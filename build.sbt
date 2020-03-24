@@ -1,4 +1,4 @@
-name := "udemy-akka-serialization"
+name := "akka-serialization"
 
 version := "0.1"
 
